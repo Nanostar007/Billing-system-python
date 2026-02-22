@@ -13,7 +13,7 @@ Clear All button resets everything
 No phone number field, only name
 
 ## Credit
-Original code idea from Sulagna Duta Roy on GitHub.
+Original code idea from @Sulagna-Duta-Roy on GitHub.
 I improved the design to make it more convenient and fit all kinds of bills better.
 Removed phone number, fixed preview alignment, added real date, improved PDF output.
 Requirements
